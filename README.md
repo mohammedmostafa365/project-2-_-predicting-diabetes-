@@ -47,6 +47,7 @@ Predict if a person is diabetic using medical data and Support Vector Machine.
 
 
 **Run**
+
 -Clone repo
 
 -Install required libraries
