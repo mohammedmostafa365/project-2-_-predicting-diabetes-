@@ -5,11 +5,14 @@
 Predict if a person is diabetic using medical data and Support Vector Machine.
 
 **Data**
--768 rows, 8 features
+-768 rows, 8 features 
+
 -Target: 0 (Non-Diabetic), 1 (Diabetic)
 
 **Workflow**
+
 -Load and explore CSV data
+
 -Split into features and labels
 -Standardize features with StandardScaler
 -Train SVM with linear kernel
